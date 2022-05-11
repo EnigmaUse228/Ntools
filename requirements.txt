@@ -1,0 +1,10 @@
+
+sh
+pyspeedtest
+pyfiglet
+time
+pyshorteners
+gtts
+qrcode
+random
+pyfiglet
